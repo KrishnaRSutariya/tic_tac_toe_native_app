@@ -1,0 +1,9 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react", // Or "react-native" for React Native projects
+    "target": "ESNext", // Recommended for JSX
+    "module": "ESNext",
+    // Other options...
+  }
+}
